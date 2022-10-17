@@ -12,3 +12,4 @@ launch app:https://har015.github.io/plannerTimes/
 
 Preview:
 
+![image](https://user-images.githubusercontent.com/111612523/196263170-95743415-82a9-484e-ae4a-e823af012550.png)
